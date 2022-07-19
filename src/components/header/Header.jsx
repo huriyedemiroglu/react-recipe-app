@@ -5,7 +5,7 @@ import {
   FoodInput,
   Button,
   Select,
-} from './Header.style';
+} from './Header.style.jsx';
 
 const Header = ({ setQuery, setSelectedMeal, mealType, getData }) => {
   const handleSubmit = (e) => {

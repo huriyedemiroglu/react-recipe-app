@@ -1,5 +1,5 @@
 import { MainContainer, Card, Header, Image, Button } from './Cards.style';
-import defaultImage from '../../assets/default-image.jpg';
+import defaultImage from '../../assets/default-image.jpeg';
 import { useNavigate } from 'react-router-dom';
 
 const Cards = ({ recipes }) => {

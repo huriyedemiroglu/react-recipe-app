@@ -8,7 +8,7 @@ import {
 } from './Detail.style';
 import { useLocation } from 'react-router-dom';
 import dietSvg from '../../assets/diet.svg';
-import defaultImage from '../../assets/default-image.jpg';
+import defaultImage from '../../assets/default-image.jpeg';
 const Detail = () => {
   const { state } = useLocation();
 
